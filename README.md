@@ -1,2 +1,2 @@
 # CV-Skillbrain
-Homework fon Skillbrain.
+Homework from Skillbrain.
